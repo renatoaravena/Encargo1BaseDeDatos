@@ -1,4 +1,4 @@
--- CASO 1: IMPLEMENTACIÓN DEL -- =============================================
+-- CASO 1: IMPLEMENTACIÓN DEL MODELO
 
 -- Tablas fuertes (entidades independientes)
 CREATE TABLE region (
